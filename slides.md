@@ -44,7 +44,9 @@ transition: slide-left
 
 # Aung Myat Moe
 
-## Technical Lead at <a href="https://www.gicjp.com/english" target="_blank">GIC</a>
+## Fonder of <a href="https://mcy.vercel.app" target="_blank">Myanmar Cyber Youths (MCY)</a>
+
+
 
 ---
 layout: section
